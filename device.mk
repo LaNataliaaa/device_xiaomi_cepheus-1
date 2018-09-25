@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
+    init.qcom.rc \
     fstab.qcom
 
 # IR
